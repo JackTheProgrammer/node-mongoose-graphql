@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-graphql",
+  "version": "1.0.0",
+  "description": "nodejs graphql practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fawad Awan",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^3.9.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
+  }
+}
